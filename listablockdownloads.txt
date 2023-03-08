@@ -1,0 +1,10 @@
+# This blocklist helps Pi-hole's admin restrict access to instagram and its domains.
+# Curated from  sources online.
+# Last updated: 08-03-2023
+
+0.0.0.0 www.baixaki.com.br
+0.0.0.0 br.ccm.net
+0.0.0.0 baixefacil.com.br
+0.0.0.0 br.uptodown.com
+0.0.0.0 www.crackeadoprogramas.com
+0.0.0.0 www.malavida.com
