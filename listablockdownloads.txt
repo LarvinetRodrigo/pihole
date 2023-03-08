@@ -10,4 +10,4 @@
 127.0.0.1 www.malavida.com
 127.0.0.1 baixaki.com.br
 (^|\.)baixaki\.com$
-(^|\.)br\uptodown\.com$
+(^|\.)uptodown\.com$
