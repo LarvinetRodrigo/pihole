@@ -8,3 +8,4 @@
 127.0.0.1 br.uptodown.com
 127.0.0.1 www.crackeadoprogramas.com
 127.0.0.1 www.malavida.com
+127.0.0.1 baixaki.com.br
