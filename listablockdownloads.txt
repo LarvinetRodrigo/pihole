@@ -36,8 +36,6 @@
 127.0.0.1 dpm.demdex.net
 127.0.0.1 autodesk.demdex.net
 127.0.0.1 tags.tiqcdn.com
-127.0.0.1 www.googletagmanager.com
-127.0.0.1 www.google-analytics.com
 127.0.0.1 cm.eversttech.net
 127.0.0.1 autodesk.tt.omtrdc.net
 127.0.0.1 *.pubnubapi.com
