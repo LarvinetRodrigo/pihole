@@ -17,6 +17,7 @@
 (^|\.)sky\.fm$
 (^|\.)suamusica\.com\.br$
 (^|\.)accuradio\.com$
+(^|\.)epidemicsound\.com$
 127.0.0.1 open.spotify.com 
 127.0.0.1 www.spotify.com
 127.0.0.1 www.deezer.com
@@ -36,3 +37,4 @@
 127.0.0.1 www.sky.fm
 127.0.0.1 www.accuradio.com
 127.0.0.1 www.suamusica.com.br
+127.0.0.1 www.epidemicsound.com
