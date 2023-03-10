@@ -1,0 +1,36 @@
+(^|\.)spotify\.com$
+(^|\.)open\.uspotify\.com$
+(^|\.)deezer\.com$
+(^|\.)music\.youtube\.com$
+(^|\.)artlist\.io$
+(^|\.)slip\.stream$
+(^|\.)tidal\.com$
+(^|\.)vagalume\.com\.br$
+(^|\.)vagalume\.fm$
+(^|\.)kboing\.com\.br$
+(^|\.)ouvirmusica\.com.\br$
+(^|\.)soundcloud\.com$
+(^|\.)stereomood\.com$
+(^|\.)rdio\.com$
+(^|\.)grooveshark\.com$
+(^|\.)blip\.fm$
+(^|\.)sky\.fm$
+(^|\.)accuradio\.com$
+127.0.0.1 open.spotify.com 
+127.0.0.1 www.spotify.com
+127.0.0.1 www.deezer.com
+127.0.0.1 music.youtube.com
+127.0.0.1 artlist.io
+127.0.0.1 slip.stream
+127.0.0.1 tidal.com/
+127.0.0.1 www.vagalume.com.br
+127.0.0.1 www.kboing.com.br
+127.0.0.1 vagalume.fm
+127.0.0.1 www.ouvirmusica.com.br
+127.0.0.1 soundcloud.com
+127.0.0.1 www.stereomood.com
+127.0.0.1 www.rdio.com
+127.0.0.1 grooveshark.com
+127.0.0.1 blip.fm
+127.0.0.1 www.sky.fm
+127.0.0.1 www.accuradio.com
