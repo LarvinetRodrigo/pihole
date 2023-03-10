@@ -15,6 +15,7 @@
 (^|\.)grooveshark\.com$
 (^|\.)blip\.fm$
 (^|\.)sky\.fm$
+(^|\.)suamusica\.com\.br$
 (^|\.)accuradio\.com$
 127.0.0.1 open.spotify.com 
 127.0.0.1 www.spotify.com
@@ -34,3 +35,4 @@
 127.0.0.1 blip.fm
 127.0.0.1 www.sky.fm
 127.0.0.1 www.accuradio.com
+127.0.0.1 www.suamusica.com.br
