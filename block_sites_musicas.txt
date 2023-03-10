@@ -18,6 +18,8 @@
 (^|\.)suamusica\.com\.br$
 (^|\.)accuradio\.com$
 (^|\.)epidemicsound\.com$
+(^|\.)apps\.apple\.com$
+127.0.0.1 apps.apple.com
 127.0.0.1 open.spotify.com 
 127.0.0.1 www.spotify.com
 127.0.0.1 www.deezer.com
