@@ -1,7 +1,6 @@
 (^|\.)spotify\.com$
 (^|\.)open\.uspotify\.com$
 (^|\.)deezer\.com$
-(^|\.)music\.youtube\.com$
 (^|\.)artlist\.io$
 (^|\.)slip\.stream$
 (^|\.)tidal\.com$
@@ -23,7 +22,6 @@
 127.0.0.1 open.spotify.com 
 127.0.0.1 www.spotify.com
 127.0.0.1 www.deezer.com
-127.0.0.1 music.youtube.com
 127.0.0.1 artlist.io
 127.0.0.1 slip.stream
 127.0.0.1 tidal.com/
