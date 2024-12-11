@@ -82,1015 +82,1015 @@
 127.0.0.1 static.intercomassets.com
 127.0.0.1 js.intercomcdn.com
 127.0.0.1 intercom-sheets.com
-2dcad.com.redirect-dev.itvpc
-3d-plm.com.redirect-dev.itvpc
-3dccbeta.solidworks.com.redirect-dev.itvpc
-3dexcite.de.redirect-dev.itvpc
-3dexcite.fr.redirect-dev.itvpc
-3dexp2213.ag
-3dexp24250.ag
-3dexp2994.ag
-3dexp3460.ag
-3dexp3461.ag
-3dexp3461.ag
-3dexp3464.ag
-3dexp40186.ag
-3dexp63123.ag
-3dexperience
--forum-turkey-events
-.com.redirect-dev.itvpc
-works.com.redirect-dev.itvpc
-3dlearning.3d-plm.com.redirect-dev.itvpc
-3dlearning.3dplm.com.redirect-dev.itvpc
-3dmojo.com.redirect-dev.itvpc
-3dplm.com.redirect-dev.itvpc
-3ds-ap-pun-smtp-out
-3ds-ap-sdc-smtp-out
-3ds-eu-abv-smtp-out
-3ds-eu-mhx-smtp-out
-3ds-foundation.asia.redirect-dev.itvpc
-3ds-foundation.biz.redirect-dev.itvpc
-3ds-foundation.com.redirect-dev.itvpc
-3ds-foundation.eu.redirect-dev.itvpc
-3ds-foundation.fr.redirect-dev.itvpc
-3ds-foundation.info.redirect-dev.itvpc
-3ds-foundation.net.redirect-dev.itvpc
-3ds-foundation.org.redirect-dev.itvpc
-3ds.foundation.redirect-dev.itvpc
-3dsbiovia.com.redirect-dev.itvpc
-3dsbiovia.jp.redirect-dev.itvpc
-3dscom-int.itvpc.3ds.com.redirect-dev.itvpc
-3dscom-qal.itvpc.3ds.com.redirect-dev.itvpc
-3dscom-uat.itvpc.3ds.com.redirect-dev.itvpc
-3dsfederation.itvpc
-3dsfederation.itvpc
-3dsfoundation.asia.redirect-dev.itvpc
-3dsfoundation.biz.redirect-dev.itvpc
-3dsfoundation.com.redirect-dev.itvpc
-3dsfoundation.eu.redirect-dev.itvpc
-3dsfoundation.fr.redirect-dev.itvpc
-3dsfoundation.info.redirect-dev.itvpc
-3dsfoundation.net.redirect-dev.itvpc
-3dsfoundation.org.redirect-dev.itvpc
-3dsplm.extranet
-3dsplmdev.extranet
-3dstore
-3dswym.com.redirect-dev.itvpc
-3dswymer.com.redirect-dev.itvpc
-3dudesgone3d.com.redirect-dev.itvpc
-3dudesgone3d.kr.redirect-dev.itvpc
-3dudesgone3d.net.redirect-dev.itvpc
-3dudesgone3d.org.redirect-dev.itvpc
-3dvia.com.redirect-dev.itvpc
-3dviacomposer.com.redirect-dev.itvpc
-3dviadev.extranet
-3dviadevmp.extranet
-3dxcloudhealth-prd-apiproxy.itvpc
-3e-oeil.com.redirect-dev.itvpc
-3kerleund3d.de.redirect-dev.itvpc
-abaqus.com.redirect-dev.itvpc
-academic.extranet
-academy-beta.extranet
-academy-prd2.extranet
-academy-qal2.extranet
-academy.ppd
-accelrys.com.redirect-dev.itvpc
-accls.learning
-accounts.accelrys.com.redirect-dev.itvpc
-aerospace-defense.ii
-ag-mxg-isentry01.ag
-ag-mxg-kz34.extranet
-ag-mxg-vcse
-ag-mxg-vsp-ppd.dsone
-ag-mxg-vsp-ppd.emea
-agarik
-age-of-experience-2020.events.3ds.com.redirect-dev.itvpc
-alphahelp
-ap-dcc-vcse01.vcs.ap
-ap-dci-vcse01.vcs.in
-ap-sdc-cube01.sbc.ap
-argosim.com.redirect-dev.itvpc
-august.ag
-aurorasat.com.redirect-dev.itvpc
-aurorasat.es.redirect-dev.itvpc
-ballscm.ag
-be3ds.extranet
-bernard-charles.com.redirect-dev.itvpc
-bernardcharles.com.redirect-dev.itvpc
-beta.solidworks.com.redirect-dev.itvpc
-bhp
-biovia-references
-biovia.net.redirect-dev.itvpc
-blog-assets
-borntodesign.tv.redirect-dev.itvpc
-boston1.connect
-boston2.connect
-boston3.connect
-boston4.connect
-bp2s-3dexp-issuetracking
-brisbane1.connect
-brisbane2.connect
-caav5.com.redirect-dev.itvpc
-campus.3ds.com.redirect-dev.itvpc
-catia.com.redirect-dev.itvpc
-changepassword.dsone.3ds.com.redirect-dev.itvpc
-cloud-ppd
-cloud.3ds.com.redirect-dev.itvpc
-cloud2.simulia-cloud
-cloud3.simulia-cloud
-cloud4.simulia-cloud
-cloud5.simulia-cloud
-cloudrundoc
-cm.3ds.com.redirect-dev.itvpc
-cn.dev.geovia.com.redirect-dev.itvpc
-cn.geovia.com.redirect-dev.itvpc
-community
-companion
-companion-ppdqa.3ds.com.redirect-dev.itvpc
-cordouan.3ds.com.redirect-dev.itvpc
-cosmologic.de.redirect-dev.itvpc
-cp2-dcs.extranet
-cpg.swym
-crl.pki
-csi-partners.3ds.com.redirect-dev.itvpc
-d-ws.las.ag
-d-ws.mhx.emea
-d-ws.mxg.ag
-d-ws.pun.ap
-d-ws.sdc.ap
-d-ws.vel.emea
-dashboardpartners-prd-apiproxy.itvpc
-dassault-data-services.com.redirect-dev.itvpc
-dassault-data-services.fr.redirect-dev.itvpc
-dassault-systemes-foundation.asia.redirect-dev.itvpc
-dassault-systemes-foundation.biz.redirect-dev.itvpc
-dassault-systemes-foundation.com.redirect-dev.itvpc
-dassault-systemes-foundation.eu.redirect-dev.itvpc
-dassault-systemes-foundation.fr.redirect-dev.itvpc
-dassault-systemes-foundation.info.redirect-dev.itvpc
-dassault-systemes-foundation.net.redirect-dev.itvpc
-dassault-systemes-foundation.org.redirect-dev.itvpc
-dassault-systemes.com.redirect-dev.itvpc
-dassault-systemes.foundation.redirect-dev.itvpc
-dassaultsystem.com.redirect-dev.itvpc
-dassaultsystemes-foundation.asia.redirect-dev.itvpc
-dassaultsystemes-foundation.biz.redirect-dev.itvpc
-dassaultsystemes-foundation.com.redirect-dev.itvpc
-dassaultsystemes-foundation.eu.redirect-dev.itvpc
-dassaultsystemes-foundation.fr.redirect-dev.itvpc
-dassaultsystemes-foundation.info.redirect-dev.itvpc
-dassaultsystemes-foundation.net.redirect-dev.itvpc
-dassaultsystemes-foundation.org.redirect-dev.itvpc
-dassaultsystemes.com.redirect-dev.itvpc
-dassaultsystemes.foundation.redirect-dev.itvpc
-dassaultsystemesfoundation.asia.redirect-dev.itvpc
-dassaultsystemesfoundation.biz.redirect-dev.itvpc
-dassaultsystemesfoundation.com.redirect-dev.itvpc
-dassaultsystemesfoundation.eu.redirect-dev.itvpc
-dassaultsystemesfoundation.fr.redirect-dev.itvpc
-dassaultsystemesfoundation.info.redirect-dev.itvpc
-dassaultsystemesfoundation.net.redirect-dev.itvpc
-dassaultsystemesfoundation.org.redirect-dev.itvpc
-dc10.simulia-cloud
-dday.3ds.com.redirect-dev.itvpc
-default.redirect-dev.itvpc
-delmia.co.uk.redirect-dev.itvpc
-delmia.com.redirect-dev.itvpc
-delmia.de.redirect-dev.itvpc
-delmia.it.redirect-dev.itvpc
-delmia.jp.redirect-dev.itvpc
-delmia.se.redirect-dev.itvpc
-desjoyeaux.3ds.com.redirect-dev.itvpc
-dev.geovia.com.redirect-dev.itvpc
-dev1
-dev2
-digitalrock.com.redirect-dev.itvpc
-diota.com.redirect-dev.itvpc
-dir-lws01.ag
-dir-lws01.ap
-dir-lws01.emea
-dir-lws01.in
-discover.draftsight.com.redirect-dev.itvpc
-distene.com.redirect-dev.itvpc
-distene.eu.redirect-dev.itvpc
-distene.fr.redirect-dev.itvpc
-distene.pw.redirect-dev.itvpc
-distribution-ws
-dls-cs01mm.ptk
-dls-cs02na.ptk
-dlssvc0024-ptk.extranet
-download
-download-indus-dc.italiases
-download.
-download.ppd
-downloads.operafea.com.redirect-dev.itvpc
-dqpm-tkse-ptk.extranet
-draftsight.com.redirect-dev.itvpc
-draftsight2018.com.redirect-dev.itvpc
-draftsightenterprise.com.redirect-dev.itvpc
-draftsightlive.com.redirect-dev.itvpc
-draftsightprofessional.com.redirect-dev.itvpc
-ds3dexp-eu-listencat-ext.extranet
-dsappstore
-dsdsf.com.redirect-dev.itvpc
-dsgscity
-dsifwe.
-dstokendsy
-dsweb.com.redirect-dev.itvpc
-dsxccsearch.extranet
-dsxclientpgm.ag
-dsxclientpgmfcs.ag
-dsxcliscm.ag
-dymola.com.redirect-dev.itvpc
-dynadata.extranet
-e-support.dassault-systemes.com.redirect-dev.itvpc
-e-time.extranet.3ds.com.redirect-dev.itvpc
-ecforum.com.redirect-dev.itvpc
-edrawings.com.redirect-dev.itvpc
-edrawings.de.redirect-dev.itvpc
-edrawings.fr.redirect-dev.itvpc
-edrawingsviewer.com.redirect-dev.itvpc
-edrawingsviewer.de.redirect-dev.itvpc
-edrawingsviewer.fr.redirect-dev.itvpc
-edrawingviewer.com.redirect-dev.itvpc
-elmcentral
-elmcentral.extranet
-emailing
-emear.simulia-cloud
-emedfstechptk1.extranet
-eni-recipe-ptk.extranet
-enovia.com.redirect-dev.itvpc
-enoviainformation.com.redirect-dev.itvpc
-enoviaservices.com.redirect-dev.itvpc
-env01test.ag
-env02test.ag
-env03test.ag
-env04test.ag
-env05test.ag
-env06test.ag
-env07test.ag
-env08test.ag
-env09test.ag
-env10test.ag
-env11test.ag
-env12test.ag
-env13test.ag
-env14test.ag
-env15test.ag
-env16test.ag
-env17test.ag
-env18test.ag
-env19test.ag
-env20test.ag
-env21test.ag
-env22test.ag
-env23test.ag
-env24test.ag
-env25test.ag
-env26test.ag
-env27test.ag
-env28test.ag
-erdev.extranet
-erecruit.extranet
-erppd.extranet
-erqal.extranet
-es.dev.geovia.com.redirect-dev.itvpc
-es.geovia.com.redirect-dev.itvpc
-eu-1.wifiguest
-eu-2.wifiguest
-eu-mhx-vcse01.vcs.emea
-eu-mhx-vcse02.vcs.emea
-eu-ppd-sbc01.uc-ppd-zoom.eu
-eu1.simulia-cloud
-eupsftigw
-euromed-tools
-eurosyslib.com.redirect-dev.itvpc
-ews.ag
-ews.ap
-ews.emea
-exa.com.redirect-dev.itvpc
-exalead-nam.ag
-exalead-onecall.com.redirect-dev.itvpc
-exalead-onepart.com.redirect-dev.itvpc
-exalead.access.prod.companion
-exalead.prod.companion
-f-ws.las.ag
-f-ws.mhx.emea
-f-ws.mxg.ag
-f-ws.pun.ap
-f-ws.sdc.ap
-f-ws.vel.emea
-fashionlab.3ds.com.redirect-dev.itvpc
-fcu.dshq-1.opc
-fe-lws01.ag
-fe-lws01.ap
-fe-lws01.emea
-fe-lws01.in
-federation
-federation
-fest3d.com.redirect-dev.itvpc
-fondation-3ds.asia.redirect-dev.itvpc
-fondation-3ds.biz.redirect-dev.itvpc
-fondation-3ds.com.redirect-dev.itvpc
-fondation-3ds.eu.redirect-dev.itvpc
-fondation-3ds.info.redirect-dev.itvpc
-fondation-3ds.net.redirect-dev.itvpc
-fondation-3ds.org.redirect-dev.itvpc
-fondation-dassault-systemes.asia.redirect-dev.itvpc
-fondation-dassault-systemes.biz.redirect-dev.itvpc
-fondation-dassault-systemes.com.redirect-dev.itvpc
-fondation-dassault-systemes.eu.redirect-dev.itvpc
-fondation-dassault-systemes.info.redirect-dev.itvpc
-fondation-dassault-systemes.net.redirect-dev.itvpc
-fondation-dassault-systemes.org.redirect-dev.itvpc
-fondation-dassaultsystemes.asia.redirect-dev.itvpc
-fondation-dassaultsystemes.biz.redirect-dev.itvpc
-fondation-dassaultsystemes.com.redirect-dev.itvpc
-fondation-dassaultsystemes.eu.redirect-dev.itvpc
-fondation-dassaultsystemes.info.redirect-dev.itvpc
-fondation-dassaultsystemes.net.redirect-dev.itvpc
-fondation-dassaultsystemes.org.redirect-dev.itvpc
-fondation3ds.asia.redirect-dev.itvpc
-fondation3ds.biz.redirect-dev.itvpc
-fondation3ds.com.redirect-dev.itvpc
-fondation3ds.eu.redirect-dev.itvpc
-fondation3ds.info.redirect-dev.itvpc
-fondation3ds.net.redirect-dev.itvpc
-fondation3ds.org.redirect-dev.itvpc
-fondationdassaultsystemes.asia.redirect-dev.itvpc
-fondationdassaultsystemes.biz.redirect-dev.itvpc
-fondationdassaultsystemes.com.redirect-dev.itvpc
-fondationdassaultsystemes.eu.redirect-dev.itvpc
-fondationdassaultsystemes.info.redirect-dev.itvpc
-fondationdassaultsystemes.net.redirect-dev.itvpc
-fondationdassaultsystemes.org.redirect-dev.itvpc
-forms.community
-ftp-bld.ag
-ftp-dsis.ag
-ftp-enovia.ag
-gemcomsoftware.com.redirect-dev.itvpc
-geovia.com.redirect-dev.itvpc
-giza.3ds.com.redirect-dev.itvpc
-giza3d.3ds.com.redirect-dev.itvpc
-gizeh.3ds.com.redirect-dev.itvpc
-gizeh3d.3ds.com.redirect-dev.itvpc
-help-embed
-help.diota.com.redirect-dev.itvpc
-help.draftsight.com.redirect-dev.itvpc
-helpdesk.dassault-systemes.com.redirect-dev.itvpc
-horizon.ag
-iaas01ap.extranet
-iaas02ap.extranet
-iaas03ap.extranet
-iaas04ap.extranet
-iaas05ap.extranet
-iaas07ap.extranet
-iaas09ap.extranet
-iaas10ap.extranet
-iaas11ap.extranet
-iaas13ap.extranet
-iad.simulia-cloud
-iam-ppd
-iam.3ds.com.redirect-dev.itvpc
-iam.dsswym
-iam.env1-swym
-icedream.3ds.com.redirect-dev.itvpc
-idemworks.com.redirect-dev.itvpc
-ifwe.com.redirect-dev.itvpc
-im.emea.3ds.com
-indiaforum.3ds.com.redirect-dev.itvpc
-info.iqms.com.redirect-dev.itvpc
-inspi3d.com.redirect-dev.itvpc
-intercim.com.redirect-dev.itvpc
-iqms.com.redirect-dev.itvpc
-is13.extranet
-is14.extranet
-is4.extranet
-is7.extranet
-itweb-pentest.extranet
-jira-technicatome
-jmap.ag
-jobs.3ds.com.redirect-dev.itvpc
-jobs.extranet
-jumping.3ds.com.redirect-dev.itvpc
-kb-prd.dsxclient
-la-fondation-3ds.asia.redirect-dev.itvpc
-la-fondation-3ds.biz.redirect-dev.itvpc
-la-fondation-3ds.com.redirect-dev.itvpc
-la-fondation-3ds.eu.redirect-dev.itvpc
-la-fondation-3ds.info.redirect-dev.itvpc
-la-fondation-3ds.net.redirect-dev.itvpc
-la-fondation-3ds.org.redirect-dev.itvpc
-la-fondation-dassault-systemes.asia.redirect-dev.itvpc
-la-fondation-dassault-systemes.biz.redirect-dev.itvpc
-la-fondation-dassault-systemes.com.redirect-dev.itvpc
-la-fondation-dassault-systemes.eu.redirect-dev.itvpc
-la-fondation-dassault-systemes.info.redirect-dev.itvpc
-la-fondation-dassault-systemes.net.redirect-dev.itvpc
-la-fondation-dassault-systemes.org.redirect-dev.itvpc
-la-fondation-dassaultsystemes.asia.redirect-dev.itvpc
-la-fondation-dassaultsystemes.biz.redirect-dev.itvpc
-la-fondation-dassaultsystemes.com.redirect-dev.itvpc
-la-fondation-dassaultsystemes.eu.redirect-dev.itvpc
-la-fondation-dassaultsystemes.info.redirect-dev.itvpc
-la-fondation-dassaultsystemes.net.redirect-dev.itvpc
-la-fondation-dassaultsystemes.org.redirect-dev.itvpc
-la-lune.3ds.com.redirect-dev.itvpc
-lab.connect
-ladouce.3ds.com.redirect-dev.itvpc
-lafondation3ds.asia.redirect-dev.itvpc
-lafondation3ds.biz.redirect-dev.itvpc
-lafondation3ds.com.redirect-dev.itvpc
-lafondation3ds.info.redirect-dev.itvpc
-lafondation3ds.net.redirect-dev.itvpc
-lafondationdassaultsystemes.asia.redirect-dev.itvpc
-lafondationdassaultsystemes.biz.redirect-dev.itvpc
-lafondationdassaultsystemes.com.redirect-dev.itvpc
-lafondationdassaultsystemes.eu.redirect-dev.itvpc
-lafondationdassaultsystemes.info.redirect-dev.itvpc
-lafondationdassaultsystemes.net.redirect-dev.itvpc
-lafondationdassaultsystemes.org.redirect-dev.itvpc
-lalune.3ds.com.redirect-dev.itvpc
-lasvegas1.connect
-lasvegas2.connect
-learningspace
-legolas-dev.cloudsecurity
-leonardo.3ds.com.redirect-dev.itvpc
-letsgodesign.com.redirect-dev.itvpc
-letsgodesign.tv.redirect-dev.itvpc
-loga.extranet.3ds.com.redirect-dev.itvpc
-login.indiaforum.3ds.com.redirect-dev.itvpc
-losangeles.connect
-lra.ag
-lra.ag
-lra.ap
-lra.ap
-lra.emea
-lra.emea
-lra.emea
-lra.emea
-lra.in
-lra.in
-lra.mhx.emea
-lra.mhx.emea
-lra.vel.emea
-lra.vel.emea
-lune.3ds.com.redirect-dev.itvpc
-lwc.ag
-lwc.ag
-lwc.ap
-lwc.ap
-lwc.emea
-lwc.emea
-lwc.emea
-lwc.emea
-lwc.in
-lwc.in
-lwc.mhx.emea
-lwc.mhx.emea
-lwc.vel.emea
-lwc.vel.emea
-m-ppd
-m.swym
-m.swym.ppd
-mail.ag
-mail.ap
-mail.emea
-maildrp.ap
-maildrp.emea
-mailing
-marketplace.3ds.com.redirect-dev.itvpc
-matrixone.com.redirect-dev.itvpc
-matrixone.net.redirect-dev.itvpc
-matrixoneservices.com.redirect-dev.itvpc
-mbsecyberexperience
-mbsecyberexperience2020.com.redirect-dev.itvpc
-media.sfy
-medidata-jabber.ag
-
-meshgems.com.redirect-dev.itvpc
-minimoys.3ds.com.redirect-dev.itvpc
-mkt-dev-us-vip.itvpc
-
-
-mkt-ppd-us-vip.itvpc
-
-
-mkt-prd-emea-vip.itvpc
-mkt-ru-data-ppd-new.itvpc
-mkt-ru-data-ppd.itvpc
-mkt-ru-data-prd.itvpc
-mobile-int.extranet
-mobileim
-mobilitylab
-modelisar.extranet
-myadfsapp.emea
-namforum.3ds.com.redirect-dev.itvpc
-newsletter-ppd.extranet
-newsletters.3ds.com.redirect-dev.itvpc
-nj1.simulia-cloud
-notification
-nspark01
-nspark02
-nspark03
-nuodb.com.redirect-dev.itvpc
-o-ws.mhx.emea
-o-ws.pun.ap
-o-ws.sdc.ap
-o-ws.vel.emea
-oab.ag
-oab.ap
-oab.emea
-oceancleanupcontest.com.redirect-dev.itvpc
-ocp-ptk-dmz.extranet
-oos.dshq-1.opc
-operafea.com.redirect-dev.itvpc
-operationlune.com.redirect-dev.itvpc
-org-3dshapebyme-qal.extranet
-org-3dshapebyme.extranet
-org-crprd.extranet
-org-crqal.extranet
-org-dsxclient.extranet
-org-dsxclientqal.extranet
-org-m
-org-m.extranet
-org-newsletters
-org-newsletters.extranet
-org.renault-swym
-org.swym
-org.www.dsswym
-orgcrqal.extranet
-ori.ppd
-orig.thecollaborativetribe
-origin-www
-origin.swym-ppd
-ortems.com.redirect-dev.itvpc
-osu-website.jaipur-1.opc
-osu-website.jaipur-1.opc
-osu.dshq-1.opc
-osu.dshq-1.opc
-osu.dshq-1.opc
-osu.jaipur-1.opc
-osu.jaipur-1.opc
-outlook.ag
-outlook.ap
-outlook.emea
-outlookdrp.ap
-outlookdrp.emea
-owa-ws01.ag
-owa-ws01.ap
-owa-ws01.emea
-owa-ws01.in
-pactpathfinder.extranet
-paris.3ds.com.redirect-dev.itvpc
-paris1.connect
-paris2.connect
-paris3d.3ds.com.redirect-dev.itvpc
-paris3dsaga.com.redirect-dev.itvpc
-paris5.connect
-paris6.connect
-partners.3ds.com.redirect-dev.itvpc
-partstream.net.redirect-dev.itvpc
-pb01ap.extranet
-pb02ap.extranet
-perspectives
-pes2022.events
-piwik.extranet
-plannerone.com.redirect-dev.itvpc
-player.virtools.com.redirect-dev.itvpc
-plm.3ds.com.redirect-dev.itvpc
-plmeurope.3ds.com.redirect-dev.itvpc
-plmmarketplace.com.redirect-dev.itvpc
-pod109-232-233-98.
-pod109-232-233-98.
-pod109-232-239-71.
-pod109-232-239-71.
-pod148-253-114-186.
-pod148-253-114-186.
-pod148-253-72-224.
-pod148-253-72-224.
-pod148-253-74-142-1.3dx-staging
-pod148-253-74-97.
-pod148-253-74-97.
-pod148-253-85-155.
-pod148-253-85-155.
-pod148-253-85-39.
-pod148-253-85-39.
-pod148-253-89-9.
-pod148-253-89-9.
-pod148-253-90-36.
-pod148-253-90-36.
-pod148-253-95-111.
-pod148-253-95-111.
-pod157-250-17-98.
-pod157-250-17-98.
-pod157-250-20-14.
-pod157-250-20-14.
-pod157-250-23-100.
-pod157-250-23-100.
-pod157-250-23-57.
-pod157-250-23-57.
-pod157-250-24-84.
-pod157-250-24-84.
-pod157-250-25-221.
-pod157-250-25-221.
-pod157-250-25-7.
-pod157-250-25-7.
-pod157-250-25-98.
-pod157-250-25-98.
-pod157-250-32-115.
-pod157-250-32-115.
-pod157-250-32-94.
-pod157-250-32-94.
-pod157-250-33-135.
-pod157-250-33-135.
-pod157-250-34-70.
-pod157-250-34-70.
-pod157-250-35-54-1.
-pod157-250-35-54-2.
-pod157-250-35-54.
-pod157-250-36-37.
-pod157-250-36-37.
-pod157-250-36-59.
-pod157-250-36-59.
-pod157-250-36-59.
-pod157-250-36-59.
-pod157-250-37-242.
-pod157-250-37-242.
-pod157-250-39-226.
-pod157-250-39-226.
-pod157-250-43-219.
-pod157-250-43-219.
-pod157-250-44-141.
-pod157-250-44-141.
-pod157-250-49-119.
-Subdomains
-000-companion
-2ces-api
-2dcad.com.redirect-dev.itvpc
-3d-plm.com.redirect-dev.itvpc
-3dccbeta.solidworks.com.redirect-dev.itvpc
-3dexcite.de.redirect-dev.itvpc
-3dexcite.fr.redirect-dev.itvpc
-3dexp2213.ag
-3dexp24250.ag
-3dexp2994.ag
-3dexp3460.ag
-3dexp3461.ag
-3dexp3464.ag
-3dexp40186.ag
-3dexp63123.ag
--forum-turkey-events
-.com.redirect-dev.itvpc
-works.com.redirect-dev.itvpc
-3dlearning.3d-plm.com.redirect-dev.itvpc
-3dlearning.3dplm.com.redirect-dev.itvpc
-3dmojo.com.redirect-dev.itvpc
-3dplm.com.redirect-dev.itvpc
-3ds-ap-pun-smtp-out
-3ds-ap-sdc-smtp-out
-3ds-eu-abv-smtp-out
-3ds-eu-mhx-smtp-out
-3ds-foundation.asia.redirect-dev.itvpc
-3ds-foundation.biz.redirect-dev.itvpc
-3ds-foundation.com.redirect-dev.itvpc
-3ds-foundation.eu.redirect-dev.itvpc
-3ds-foundation.fr.redirect-dev.itvpc
-3ds-foundation.info.redirect-dev.itvpc
-3ds-foundation.net.redirect-dev.itvpc
-3ds-foundation.org.redirect-dev.itvpc
-3ds.foundation.redirect-dev.itvpc
-3dsbiovia.com.redirect-dev.itvpc
-3dsbiovia.jp.redirect-dev.itvpc
-3dscom-int.itvpc.3ds.com.redirect-dev.itvpc
-3dscom-qal.itvpc.3ds.com.redirect-dev.itvpc
-3dscom-uat.itvpc.3ds.com.redirect-dev.itvpc
-3dsfederation.itvpc
-3dsfoundation.asia.redirect-dev.itvpc
-3dsfoundation.biz.redirect-dev.itvpc
-3dsfoundation.com.redirect-dev.itvpc
-3dsfoundation.eu.redirect-dev.itvpc
-3dsfoundation.fr.redirect-dev.itvpc
-3dsfoundation.info.redirect-dev.itvpc
-3dsfoundation.net.redirect-dev.itvpc
-3dsfoundation.org.redirect-dev.itvpc
-3dsplm.extranet
-3dsplmdev.extranet
-3dstore
-3dswym.com.redirect-dev.itvpc
-3dswymer.com.redirect-dev.itvpc
-3dudesgone3d.com.redirect-dev.itvpc
-3dudesgone3d.kr.redirect-dev.itvpc
-3dudesgone3d.net.redirect-dev.itvpc
-3dudesgone3d.org.redirect-dev.itvpc
-3dvia.com.redirect-dev.itvpc
-3dviacomposer.com.redirect-dev.itvpc
-3dviadev.extranet
-3dviadevmp.extranet
-3dxcloudhealth-prd-apiproxy.itvpc
-3e-oeil.com.redirect-dev.itvpc
-3kerleund3d.de.redirect-dev.itvpc
-abaqus.com.redirect-dev.itvpc
-academic.extranet
-academy-beta.extranet
-academy-prd2.extranet
-academy-qal2.extranet
-academy.ppd
-accelrys.com.redirect-dev.itvpc
-accls.learning
-accounts.accelrys.com.redirect-dev.itvpc
-aerospace-defense.ii
-ag-mxg-isentry01.ag
-ag-mxg-kz34.extranet
-ag-mxg-vcse
-ag-mxg-vsp-ppd.dsone
-ag-mxg-vsp-ppd.emea
-agarik
-age-of-experience-2020.events.3ds.com.redirect-dev.itvpc
-alphahelp
-ap-dcc-vcse01.vcs.ap
-ap-dci-vcse01.vcs.in
-ap-sdc-cube01.sbc.ap
-argosim.com.redirect-dev.itvpc
-august.ag
-aurorasat.com.redirect-dev.itvpc
-aurorasat.es.redirect-dev.itvpc
-ballscm.ag
-be3ds.extranet
-bernard-charles.com.redirect-dev.itvpc
-bernardcharles.com.redirect-dev.itvpc
-beta.solidworks.com.redirect-dev.itvpc
-bhp
-biovia-references
-biovia.net.redirect-dev.itvpc
-borntodesign.tv.redirect-dev.itvpc
-boston1.connect
-boston2.connect
-boston3.connect
-boston4.connect
-bp2s-3dexp-issuetracking
-brisbane1.connect
-brisbane2.connect
-caav5.com.redirect-dev.itvpc
-campus
-campus.3ds.com.redirect-dev.itvpc
-catia.com.redirect-dev.itvpc
-cdn1
-changepassword.dsone.3ds.com.redirect-dev.itvpc
-cloud-ppd
-cloud.3ds.com.redirect-dev.itvpc
-cloud2.simulia-cloud
-cloud3.simulia-cloud
-cloud4.simulia-cloud
-cloud5.simulia-cloud
-cloudrundoc
-cm.3ds.com.redirect-dev.itvpc
-cn.dev.geovia.com.redirect-dev.itvpc
-cn.geovia.com.redirect-dev.itvpc
-community
-companion
-companion-ppdqa.3ds.com.redirect-dev.itvpc
-cordouan.3ds.com.redirect-dev.itvpc
-cosmologic.de.redirect-dev.itvpc
-cp2-dcs.extranet
-cpg.swym
-csi-partners.3ds.com.redirect-dev.itvpc
-d-ws.las.ag
-d-ws.mhx.emea
-d-ws.mxg.ag
-d-ws.pun.ap
-d-ws.sdc.ap
-d-ws.vel.emea
-dashboardpartners-prd-apiproxy.itvpc
-dassault-data-services.com.redirect-dev.itvpc
-dassault-data-services.fr.redirect-dev.itvpc
-dassault-systemes-foundation.asia.redirect-dev.itvpc
-dassault-systemes-foundation.biz.redirect-dev.itvpc
-dassault-systemes-foundation.com.redirect-dev.itvpc
-dassault-systemes-foundation.eu.redirect-dev.itvpc
-dassault-systemes-foundation.fr.redirect-dev.itvpc
-dassault-systemes-foundation.info.redirect-dev.itvpc
-dassault-systemes-foundation.net.redirect-dev.itvpc
-dassault-systemes-foundation.org.redirect-dev.itvpc
-dassault-systemes.com.redirect-dev.itvpc
-dassault-systemes.foundation.redirect-dev.itvpc
-dassaultsystem.com.redirect-dev.itvpc
-dassaultsystemes-foundation.asia.redirect-dev.itvpc
-dassaultsystemes-foundation.biz.redirect-dev.itvpc
-dassaultsystemes-foundation.com.redirect-dev.itvpc
-dassaultsystemes-foundation.eu.redirect-dev.itvpc
-dassaultsystemes-foundation.fr.redirect-dev.itvpc
-dassaultsystemes-foundation.info.redirect-dev.itvpc
-dassaultsystemes-foundation.net.redirect-dev.itvpc
-dassaultsystemes-foundation.org.redirect-dev.itvpc
-dassaultsystemes.com.redirect-dev.itvpc
-dassaultsystemes.foundation.redirect-dev.itvpc
-dassaultsystemesfoundation.asia.redirect-dev.itvpc
-dassaultsystemesfoundation.biz.redirect-dev.itvpc
-dassaultsystemesfoundation.com.redirect-dev.itvpc
-dassaultsystemesfoundation.eu.redirect-dev.itvpc
-dassaultsystemesfoundation.fr.redirect-dev.itvpc
-dassaultsystemesfoundation.info.redirect-dev.itvpc
-dassaultsystemesfoundation.net.redirect-dev.itvpc
-dassaultsystemesfoundation.org.redirect-dev.itvpc
-dc10.simulia-cloud
-dday.3ds.com.redirect-dev.itvpc
-default.redirect-dev.itvpc
-delmia.co.uk.redirect-dev.itvpc
-delmia.com.redirect-dev.itvpc
-delmia.de.redirect-dev.itvpc
-delmia.it.redirect-dev.itvpc
-delmia.jp.redirect-dev.itvpc
-delmia.se.redirect-dev.itvpc
-desjoyeaux.3ds.com.redirect-dev.itvpc
-dev.geovia.com.redirect-dev.itvpc
-dev1
-dev2
-digitalrock.com.redirect-dev.itvpc
-diota.com.redirect-dev.itvpc
-dir-lws01.ag
-dir-lws01.ap
-dir-lws01.emea
-dir-lws01.in
-discover.draftsight.com.redirect-dev.itvpc
-distene.com.redirect-dev.itvpc
-distene.eu.redirect-dev.itvpc
-distene.fr.redirect-dev.itvpc
-distene.pw.redirect-dev.itvpc
-distribution-ws
-dls-cs01mm.ptk
-dls-cs02na.ptk
-dlssvc0024-ptk.extranet
-download
-download-indus-dc.italiases
-download.
-download.ppd
-downloads.operafea.com.redirect-dev.itvpc
-dqpm-tkse-ptk.extranet
-draftsight.com.redirect-dev.itvpc
-draftsight2018.com.redirect-dev.itvpc
-draftsightenterprise.com.redirect-dev.itvpc
-draftsightlive.com.redirect-dev.itvpc
-draftsightprofessional.com.redirect-dev.itvpc
-ds3dexp-eu-listencat-ext.extranet
-dsappstore
-dsdsf.com.redirect-dev.itvpc
-dsgscity
-dsifwe.
-dstokendsy
-dsweb.com.redirect-dev.itvpc
-dsxccsearch.extranet
-dsxclientpgm.ag
-dsxclientpgmfcs.ag
-dsxcliscm.ag
-dymola.com.redirect-dev.itvpc
-dynadata.extranet
-e-support.dassault-systemes.com.redirect-dev.itvpc
-e-time.extranet.3ds.com.redirect-dev.itvpc
-ecforum.com.redirect-dev.itvpc
-edrawings.com.redirect-dev.itvpc
-edrawings.de.redirect-dev.itvpc
-edrawings.fr.redirect-dev.itvpc
-edrawingsviewer.com.redirect-dev.itvpc
-edrawingsviewer.de.redirect-dev.itvpc
-edrawingsviewer.fr.redirect-dev.itvpc
-edrawingviewer.com.redirect-dev.itvpc
-elmcentral
-elmcentral.extranet
-embarkd1
-emear.simulia-cloud
-emedfstechptk1.extranet
-eni-recipe-ptk.extranet
-enovia.com.redirect-dev.itvpc
-enoviainformation.com.redirect-dev.itvpc
-enoviaservices.com.redirect-dev.itvpc
-env01test.ag
-env02test.ag
-env03test.ag
-env04test.ag
-env05test.ag
-env06test.ag
-env07test.ag
-env08test.ag
-env09test.ag
-env10test.ag
-env11test.ag
-env12test.ag
-env13test.ag
-env14test.ag
-env15test.ag
-env16test.ag
-env17test.ag
-env18test.ag
-env19test.ag
-env20test.ag
-env21test.ag
-env22test.ag
-env23test.ag
-env24test.ag
-env25test.ag
-env26test.ag
-env27test.ag
-env28test.ag
-erdev.extranet
-erecruit.extranet
-erppd.extranet
-erqal.extranet
-es.dev.geovia.com.redirect-dev.itvpc
-es.geovia.com.redirect-dev.itvpc
-eu-1.wifiguest
-eu-2.wifiguest
-eu-mhx-vcse01.vcs.emea
-eu-mhx-vcse02.vcs.emea
-eu-ppd-sbc01.uc-ppd-zoom.eu
-eu1.simulia-cloud
-eupsftigw
-euromed-tools
-eurosyslib.com.redirect-dev.itvpc
-ews.ag
-ews.ap
-ews.emea
-exa.com.redirect-dev.itvpc
-exalead-nam.ag
-exalead-onecall.com.redirect-dev.itvpc
-exalead-onepart.com.redirect-dev.itvpc
-exalead.access.prod.companion
-exalead.prod.companion
-f-ws.las.ag
-f-ws.mhx.emea
-f-ws.mxg.ag
-f-ws.pun.ap
-f-ws.sdc.ap
-f-ws.vel.emea
-fashionlab.3ds.com.redirect-dev.itvpc
-fcu.dshq-1.opc
-fe-lws01.ag
-fe-lws01.ap
-fe-lws01.emea
-fe-lws01.in
-federation
-fest3d.com.redirect-dev.itvpc
-fondation-3ds.asia.redirect-dev.itvpc
-fondation-3ds.biz.redirect-dev.itvpc
-fondation-3ds.com.redirect-dev.itvpc
-fondation-3ds.eu.redirect-dev.itvpc
-fondation-3ds.info.redirect-dev.itvpc
-fondation-3ds.net.redirect-dev.itvpc
-fondation-3ds.org.redirect-dev.itvpc
-fondation-dassault-systemes.asia.redirect-dev.itvpc
-fondation-dassault-systemes.biz.redirect-dev.itvpc
-fondation-dassault-systemes.com.redirect-dev.itvpc
-fondation-dassault-systemes.eu.redirect-dev.itvpc
-fondation-dassault-systemes.info.redirect-dev.itvpc
-fondation-dassault-systemes.net.redirect-dev.itvpc
-fondation-dassault-systemes.org.redirect-dev.itvpc
-fondation-dassaultsystemes.asia.redirect-dev.itvpc
-fondation-dassaultsystemes.biz.redirect-dev.itvpc
-fondation-dassaultsystemes.com.redirect-dev.itvpc
-fondation-dassaultsystemes.eu.redirect-dev.itvpc
-fondation-dassaultsystemes.info.redirect-dev.itvpc
-fondation-dassaultsystemes.net.redirect-dev.itvpc
-fondation-dassaultsystemes.org.redirect-dev.itvpc
-fondation3ds.asia.redirect-dev.itvpc
-fondation3ds.biz.redirect-dev.itvpc
-fondation3ds.com.redirect-dev.itvpc
-fondation3ds.eu.redirect-dev.itvpc
-fondation3ds.info.redirect-dev.itvpc
-fondation3ds.net.redirect-dev.itvpc
-fondation3ds.org.redirect-dev.itvpc
-fondationdassaultsystemes.asia.redirect-dev.itvpc
-fondationdassaultsystemes.biz.redirect-dev.itvpc
-fondationdassaultsystemes.com.redirect-dev.itvpc
-fondationdassaultsystemes.eu.redirect-dev.itvpc
-fondationdassaultsystemes.info.redirect-dev.itvpc
-fondationdassaultsystemes.net.redirect-dev.itvpc
-fondationdassaultsystemes.org.redirect-dev.itvpc
-forms.community
-ftp-bld.ag
-ftp-dsis.ag
-ftp-enovia.ag
-gemcomsoftware.com.redirect-dev.itvpc
-geovia.com.redirect-dev.itvpc
-giza.3ds.com.redirect-dev.itvpc
-giza3d.3ds.com.redirect-dev.itvpc
-gizeh.3ds.com.redirect-dev.itvpc
-gizeh3d.3ds.com.redirect-dev.itvpc
-help-embed
-help.diota.com.redirect-dev.itvpc
-help.draftsight.com.redirect-dev.itvpc
-helpdesk.dassault-systemes.com.redirect-dev.itvpc
-horizon.ag
-iaas01ap.extranet
-iaas02ap.extranet
-iaas03ap.extranet
-iaas04ap.extranet
-iaas05ap.extranet
-iaas07ap.extranet
-iaas09ap.extranet
-iaas10ap.extranet
-iaas11ap.extranet
-iaas13ap.extranet
-iad.simulia-cloud
+127.0.0.1   2dcad.com.redirect-dev.itvpc
+127.0.0.1   3d-plm.com.redirect-dev.itvpc
+127.0.0.1   3dccbeta.solidworks.com.redirect-dev.itvpc
+127.0.0.1   3dexcite.de.redirect-dev.itvpc
+127.0.0.1   3dexcite.fr.redirect-dev.itvpc
+127.0.0.1   3dexp2213.ag
+127.0.0.1   3dexp24250.ag
+127.0.0.1   3dexp2994.ag
+127.0.0.1   3dexp3460.ag
+127.0.0.1   3dexp3461.ag
+127.0.0.1   3dexp3461.ag
+127.0.0.1   3dexp3464.ag
+127.0.0.1   3dexp40186.ag
+127.0.0.1   3dexp63123.ag
+127.0.0.1   3dexperience
+127.0.0.1   -forum-turkey-events
+127.0.0.1   .com.redirect-dev.itvpc
+127.0.0.1   works.com.redirect-dev.itvpc
+127.0.0.1   3dlearning.3d-plm.com.redirect-dev.itvpc
+127.0.0.1   3dlearning.3dplm.com.redirect-dev.itvpc
+127.0.0.1   3dmojo.com.redirect-dev.itvpc
+127.0.0.1   3dplm.com.redirect-dev.itvpc
+127.0.0.1   3ds-ap-pun-smtp-out
+127.0.0.1   3ds-ap-sdc-smtp-out
+127.0.0.1   3ds-eu-abv-smtp-out
+127.0.0.1   3ds-eu-mhx-smtp-out
+127.0.0.1   3ds-foundation.asia.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.biz.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.com.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.eu.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.fr.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.info.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.net.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.org.redirect-dev.itvpc
+127.0.0.1   3ds.foundation.redirect-dev.itvpc
+127.0.0.1   3dsbiovia.com.redirect-dev.itvpc
+127.0.0.1   3dsbiovia.jp.redirect-dev.itvpc
+127.0.0.1   3dscom-int.itvpc.3ds.com.redirect-dev.itvpc
+127.0.0.1   3dscom-qal.itvpc.3ds.com.redirect-dev.itvpc
+127.0.0.1   3dscom-uat.itvpc.3ds.com.redirect-dev.itvpc
+127.0.0.1   3dsfederation.itvpc
+127.0.0.1   3dsfederation.itvpc
+127.0.0.1   3dsfoundation.asia.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.biz.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.com.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.eu.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.fr.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.info.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.net.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.org.redirect-dev.itvpc
+127.0.0.1   3dsplm.extranet
+127.0.0.1   3dsplmdev.extranet
+127.0.0.1   3dstore
+127.0.0.1   3dswym.com.redirect-dev.itvpc
+127.0.0.1   3dswymer.com.redirect-dev.itvpc
+127.0.0.1   3dudesgone3d.com.redirect-dev.itvpc
+127.0.0.1   3dudesgone3d.kr.redirect-dev.itvpc
+127.0.0.1   3dudesgone3d.net.redirect-dev.itvpc
+127.0.0.1   3dudesgone3d.org.redirect-dev.itvpc
+127.0.0.1   3dvia.com.redirect-dev.itvpc
+127.0.0.1   3dviacomposer.com.redirect-dev.itvpc
+127.0.0.1   3dviadev.extranet
+127.0.0.1   3dviadevmp.extranet
+127.0.0.1   3dxcloudhealth-prd-apiproxy.itvpc
+127.0.0.1   3e-oeil.com.redirect-dev.itvpc
+127.0.0.1   3kerleund3d.de.redirect-dev.itvpc
+127.0.0.1   abaqus.com.redirect-dev.itvpc
+127.0.0.1   academic.extranet
+127.0.0.1   academy-beta.extranet
+127.0.0.1   academy-prd2.extranet
+127.0.0.1   academy-qal2.extranet
+127.0.0.1   academy.ppd
+127.0.0.1   accelrys.com.redirect-dev.itvpc
+127.0.0.1   accls.learning
+127.0.0.1   accounts.accelrys.com.redirect-dev.itvpc
+127.0.0.1   aerospace-defense.ii
+127.0.0.1   ag-mxg-isentry01.ag
+127.0.0.1   ag-mxg-kz34.extranet
+127.0.0.1   ag-mxg-vcse
+127.0.0.1   ag-mxg-vsp-ppd.dsone
+127.0.0.1   ag-mxg-vsp-ppd.emea
+127.0.0.1   agarik
+127.0.0.1   age-of-experience-2020.events.3ds.com.redirect-dev.itvpc
+127.0.0.1   alphahelp
+127.0.0.1   ap-dcc-vcse01.vcs.ap
+127.0.0.1   ap-dci-vcse01.vcs.in
+127.0.0.1   ap-sdc-cube01.sbc.ap
+127.0.0.1   argosim.com.redirect-dev.itvpc
+127.0.0.1   august.ag
+127.0.0.1   aurorasat.com.redirect-dev.itvpc
+127.0.0.1   aurorasat.es.redirect-dev.itvpc
+127.0.0.1   ballscm.ag
+127.0.0.1   be3ds.extranet
+127.0.0.1   bernard-charles.com.redirect-dev.itvpc
+127.0.0.1   bernardcharles.com.redirect-dev.itvpc
+127.0.0.1   beta.solidworks.com.redirect-dev.itvpc
+127.0.0.1   bhp
+127.0.0.1   biovia-references
+127.0.0.1   biovia.net.redirect-dev.itvpc
+127.0.0.1   blog-assets
+127.0.0.1   borntodesign.tv.redirect-dev.itvpc
+127.0.0.1   boston1.connect
+127.0.0.1   boston2.connect
+127.0.0.1   boston3.connect
+127.0.0.1   boston4.connect
+127.0.0.1   bp2s-3dexp-issuetracking
+127.0.0.1   brisbane1.connect
+127.0.0.1   brisbane2.connect
+127.0.0.1   caav5.com.redirect-dev.itvpc
+127.0.0.1   campus.3ds.com.redirect-dev.itvpc
+127.0.0.1   catia.com.redirect-dev.itvpc
+127.0.0.1   changepassword.dsone.3ds.com.redirect-dev.itvpc
+127.0.0.1   cloud-ppd
+127.0.0.1   cloud.3ds.com.redirect-dev.itvpc
+127.0.0.1   cloud2.simulia-cloud
+127.0.0.1   cloud3.simulia-cloud
+127.0.0.1   cloud4.simulia-cloud
+127.0.0.1   cloud5.simulia-cloud
+127.0.0.1   cloudrundoc
+127.0.0.1   cm.3ds.com.redirect-dev.itvpc
+127.0.0.1   cn.dev.geovia.com.redirect-dev.itvpc
+127.0.0.1   cn.geovia.com.redirect-dev.itvpc
+127.0.0.1   community
+127.0.0.1   companion
+127.0.0.1   companion-ppdqa.3ds.com.redirect-dev.itvpc
+127.0.0.1   cordouan.3ds.com.redirect-dev.itvpc
+127.0.0.1   cosmologic.de.redirect-dev.itvpc
+127.0.0.1   cp2-dcs.extranet
+127.0.0.1   cpg.swym
+127.0.0.1   crl.pki
+127.0.0.1   csi-partners.3ds.com.redirect-dev.itvpc
+127.0.0.1   d-ws.las.ag
+127.0.0.1   d-ws.mhx.emea
+127.0.0.1   d-ws.mxg.ag
+127.0.0.1   d-ws.pun.ap
+127.0.0.1   d-ws.sdc.ap
+127.0.0.1   d-ws.vel.emea
+127.0.0.1   dashboardpartners-prd-apiproxy.itvpc
+127.0.0.1   dassault-data-services.com.redirect-dev.itvpc
+127.0.0.1   dassault-data-services.fr.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.asia.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.biz.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.com.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.eu.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.fr.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.info.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.net.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.org.redirect-dev.itvpc
+127.0.0.1   dassault-systemes.com.redirect-dev.itvpc
+127.0.0.1   dassault-systemes.foundation.redirect-dev.itvpc
+127.0.0.1   dassaultsystem.com.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.asia.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.biz.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.com.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.eu.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.fr.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.info.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.net.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.org.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes.com.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes.foundation.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.asia.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.biz.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.com.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.eu.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.fr.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.info.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.net.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.org.redirect-dev.itvpc
+127.0.0.1   dc10.simulia-cloud
+127.0.0.1   dday.3ds.com.redirect-dev.itvpc
+127.0.0.1   default.redirect-dev.itvpc
+127.0.0.1   delmia.co.uk.redirect-dev.itvpc
+127.0.0.1   delmia.com.redirect-dev.itvpc
+127.0.0.1   delmia.de.redirect-dev.itvpc
+127.0.0.1   delmia.it.redirect-dev.itvpc
+127.0.0.1   delmia.jp.redirect-dev.itvpc
+127.0.0.1   delmia.se.redirect-dev.itvpc
+127.0.0.1   desjoyeaux.3ds.com.redirect-dev.itvpc
+127.0.0.1   dev.geovia.com.redirect-dev.itvpc
+127.0.0.1   dev1
+127.0.0.1   dev2
+127.0.0.1   digitalrock.com.redirect-dev.itvpc
+127.0.0.1   diota.com.redirect-dev.itvpc
+127.0.0.1   dir-lws01.ag
+127.0.0.1   dir-lws01.ap
+127.0.0.1   dir-lws01.emea
+127.0.0.1   dir-lws01.in
+127.0.0.1   discover.draftsight.com.redirect-dev.itvpc
+127.0.0.1   distene.com.redirect-dev.itvpc
+127.0.0.1   distene.eu.redirect-dev.itvpc
+127.0.0.1   distene.fr.redirect-dev.itvpc
+127.0.0.1   distene.pw.redirect-dev.itvpc
+127.0.0.1   distribution-ws
+127.0.0.1   dls-cs01mm.ptk
+127.0.0.1   dls-cs02na.ptk
+127.0.0.1   dlssvc0024-ptk.extranet
+127.0.0.1   download
+127.0.0.1   download-indus-dc.italiases
+127.0.0.1   download.
+127.0.0.1   download.ppd
+127.0.0.1   downloads.operafea.com.redirect-dev.itvpc
+127.0.0.1   dqpm-tkse-ptk.extranet
+127.0.0.1   draftsight.com.redirect-dev.itvpc
+127.0.0.1   draftsight2018.com.redirect-dev.itvpc
+127.0.0.1   draftsightenterprise.com.redirect-dev.itvpc
+127.0.0.1   draftsightlive.com.redirect-dev.itvpc
+127.0.0.1   draftsightprofessional.com.redirect-dev.itvpc
+127.0.0.1   ds3dexp-eu-listencat-ext.extranet
+127.0.0.1   dsappstore
+127.0.0.1   dsdsf.com.redirect-dev.itvpc
+127.0.0.1   dsgscity
+127.0.0.1   dsifwe.
+127.0.0.1   dstokendsy
+127.0.0.1   dsweb.com.redirect-dev.itvpc
+127.0.0.1   dsxccsearch.extranet
+127.0.0.1   dsxclientpgm.ag
+127.0.0.1   dsxclientpgmfcs.ag
+127.0.0.1   dsxcliscm.ag
+127.0.0.1   dymola.com.redirect-dev.itvpc
+127.0.0.1   dynadata.extranet
+127.0.0.1   e-support.dassault-systemes.com.redirect-dev.itvpc
+127.0.0.1   e-time.extranet.3ds.com.redirect-dev.itvpc
+127.0.0.1   ecforum.com.redirect-dev.itvpc
+127.0.0.1   edrawings.com.redirect-dev.itvpc
+127.0.0.1   edrawings.de.redirect-dev.itvpc
+127.0.0.1   edrawings.fr.redirect-dev.itvpc
+127.0.0.1   edrawingsviewer.com.redirect-dev.itvpc
+127.0.0.1   edrawingsviewer.de.redirect-dev.itvpc
+127.0.0.1   edrawingsviewer.fr.redirect-dev.itvpc
+127.0.0.1   edrawingviewer.com.redirect-dev.itvpc
+127.0.0.1   elmcentral
+127.0.0.1   elmcentral.extranet
+127.0.0.1   emailing
+127.0.0.1   emear.simulia-cloud
+127.0.0.1   emedfstechptk1.extranet
+127.0.0.1   eni-recipe-ptk.extranet
+127.0.0.1   enovia.com.redirect-dev.itvpc
+127.0.0.1   enoviainformation.com.redirect-dev.itvpc
+127.0.0.1   enoviaservices.com.redirect-dev.itvpc
+127.0.0.1   env01test.ag
+127.0.0.1   env02test.ag
+127.0.0.1   env03test.ag
+127.0.0.1   env04test.ag
+127.0.0.1   env05test.ag
+127.0.0.1   env06test.ag
+127.0.0.1   env07test.ag
+127.0.0.1   env08test.ag
+127.0.0.1   env09test.ag
+127.0.0.1   env10test.ag
+127.0.0.1   env11test.ag
+127.0.0.1   env12test.ag
+127.0.0.1   env13test.ag
+127.0.0.1   env14test.ag
+127.0.0.1   env15test.ag
+127.0.0.1   env16test.ag
+127.0.0.1   env17test.ag
+127.0.0.1   env18test.ag
+127.0.0.1   env19test.ag
+127.0.0.1   env20test.ag
+127.0.0.1   env21test.ag
+127.0.0.1   env22test.ag
+127.0.0.1   env23test.ag
+127.0.0.1   env24test.ag
+127.0.0.1   env25test.ag
+127.0.0.1   env26test.ag
+127.0.0.1   env27test.ag
+127.0.0.1   env28test.ag
+127.0.0.1   erdev.extranet
+127.0.0.1   erecruit.extranet
+127.0.0.1   erppd.extranet
+127.0.0.1   erqal.extranet
+127.0.0.1   es.dev.geovia.com.redirect-dev.itvpc
+127.0.0.1   es.geovia.com.redirect-dev.itvpc
+127.0.0.1   eu-1.wifiguest
+127.0.0.1   eu-2.wifiguest
+127.0.0.1   eu-mhx-vcse01.vcs.emea
+127.0.0.1   eu-mhx-vcse02.vcs.emea
+127.0.0.1   eu-ppd-sbc01.uc-ppd-zoom.eu
+127.0.0.1   eu1.simulia-cloud
+127.0.0.1   eupsftigw
+127.0.0.1   euromed-tools
+127.0.0.1   eurosyslib.com.redirect-dev.itvpc
+127.0.0.1   ews.ag
+127.0.0.1   ews.ap
+127.0.0.1   ews.emea
+127.0.0.1   exa.com.redirect-dev.itvpc
+127.0.0.1   exalead-nam.ag
+127.0.0.1   exalead-onecall.com.redirect-dev.itvpc
+127.0.0.1   exalead-onepart.com.redirect-dev.itvpc
+127.0.0.1   exalead.access.prod.companion
+127.0.0.1   exalead.prod.companion
+127.0.0.1   f-ws.las.ag
+127.0.0.1   f-ws.mhx.emea
+127.0.0.1   f-ws.mxg.ag
+127.0.0.1   f-ws.pun.ap
+127.0.0.1   f-ws.sdc.ap
+127.0.0.1   f-ws.vel.emea
+127.0.0.1   fashionlab.3ds.com.redirect-dev.itvpc
+127.0.0.1   fcu.dshq-1.opc
+127.0.0.1   fe-lws01.ag
+127.0.0.1   fe-lws01.ap
+127.0.0.1   fe-lws01.emea
+127.0.0.1   fe-lws01.in
+127.0.0.1   federation
+127.0.0.1   federation
+127.0.0.1   fest3d.com.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.asia.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.biz.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.com.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.eu.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.info.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.net.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.org.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.asia.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.biz.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.com.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.eu.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.info.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.net.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.org.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.asia.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.biz.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.com.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.eu.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.info.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.net.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.org.redirect-dev.itvpc
+127.0.0.1   fondation3ds.asia.redirect-dev.itvpc
+127.0.0.1   fondation3ds.biz.redirect-dev.itvpc
+127.0.0.1   fondation3ds.com.redirect-dev.itvpc
+127.0.0.1   fondation3ds.eu.redirect-dev.itvpc
+127.0.0.1   fondation3ds.info.redirect-dev.itvpc
+127.0.0.1   fondation3ds.net.redirect-dev.itvpc
+127.0.0.1   fondation3ds.org.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.asia.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.biz.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.com.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.eu.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.info.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.net.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.org.redirect-dev.itvpc
+127.0.0.1   forms.community
+127.0.0.1   ftp-bld.ag
+127.0.0.1   ftp-dsis.ag
+127.0.0.1   ftp-enovia.ag
+127.0.0.1   gemcomsoftware.com.redirect-dev.itvpc
+127.0.0.1   geovia.com.redirect-dev.itvpc
+127.0.0.1   giza.3ds.com.redirect-dev.itvpc
+127.0.0.1   giza3d.3ds.com.redirect-dev.itvpc
+127.0.0.1   gizeh.3ds.com.redirect-dev.itvpc
+127.0.0.1   gizeh3d.3ds.com.redirect-dev.itvpc
+127.0.0.1   help-embed
+127.0.0.1   help.diota.com.redirect-dev.itvpc
+127.0.0.1   help.draftsight.com.redirect-dev.itvpc
+127.0.0.1   helpdesk.dassault-systemes.com.redirect-dev.itvpc
+127.0.0.1   horizon.ag
+127.0.0.1   iaas01ap.extranet
+127.0.0.1   iaas02ap.extranet
+127.0.0.1   iaas03ap.extranet
+127.0.0.1   iaas04ap.extranet
+127.0.0.1   iaas05ap.extranet
+127.0.0.1   iaas07ap.extranet
+127.0.0.1   iaas09ap.extranet
+127.0.0.1   iaas10ap.extranet
+127.0.0.1   iaas11ap.extranet
+127.0.0.1   iaas13ap.extranet
+127.0.0.1   iad.simulia-cloud
+127.0.0.1   iam-ppd
+127.0.0.1   iam.3ds.com.redirect-dev.itvpc
+127.0.0.1   iam.dsswym
+127.0.0.1   iam.env1-swym
+127.0.0.1   icedream.3ds.com.redirect-dev.itvpc
+127.0.0.1   idemworks.com.redirect-dev.itvpc
+127.0.0.1   ifwe.com.redirect-dev.itvpc
+127.0.0.1   im.emea.3ds.com
+127.0.0.1   indiaforum.3ds.com.redirect-dev.itvpc
+127.0.0.1   info.iqms.com.redirect-dev.itvpc
+127.0.0.1   inspi3d.com.redirect-dev.itvpc
+127.0.0.1   intercim.com.redirect-dev.itvpc
+127.0.0.1   iqms.com.redirect-dev.itvpc
+127.0.0.1   is13.extranet
+127.0.0.1   is14.extranet
+127.0.0.1   is4.extranet
+127.0.0.1   is7.extranet
+127.0.0.1   itweb-pentest.extranet
+127.0.0.1   jira-technicatome
+127.0.0.1   jmap.ag
+127.0.0.1   jobs.3ds.com.redirect-dev.itvpc
+127.0.0.1   jobs.extranet
+127.0.0.1   jumping.3ds.com.redirect-dev.itvpc
+127.0.0.1   kb-prd.dsxclient
+127.0.0.1   la-fondation-3ds.asia.redirect-dev.itvpc
+127.0.0.1   la-fondation-3ds.biz.redirect-dev.itvpc
+127.0.0.1   la-fondation-3ds.com.redirect-dev.itvpc
+127.0.0.1   la-fondation-3ds.eu.redirect-dev.itvpc
+127.0.0.1   la-fondation-3ds.info.redirect-dev.itvpc
+127.0.0.1   la-fondation-3ds.net.redirect-dev.itvpc
+127.0.0.1   la-fondation-3ds.org.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassault-systemes.asia.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassault-systemes.biz.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassault-systemes.com.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassault-systemes.eu.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassault-systemes.info.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassault-systemes.net.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassault-systemes.org.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassaultsystemes.asia.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassaultsystemes.biz.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassaultsystemes.com.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassaultsystemes.eu.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassaultsystemes.info.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassaultsystemes.net.redirect-dev.itvpc
+127.0.0.1   la-fondation-dassaultsystemes.org.redirect-dev.itvpc
+127.0.0.1   la-lune.3ds.com.redirect-dev.itvpc
+127.0.0.1   lab.connect
+127.0.0.1   ladouce.3ds.com.redirect-dev.itvpc
+127.0.0.1   lafondation3ds.asia.redirect-dev.itvpc
+127.0.0.1   lafondation3ds.biz.redirect-dev.itvpc
+127.0.0.1   lafondation3ds.com.redirect-dev.itvpc
+127.0.0.1   lafondation3ds.info.redirect-dev.itvpc
+127.0.0.1   lafondation3ds.net.redirect-dev.itvpc
+127.0.0.1   lafondationdassaultsystemes.asia.redirect-dev.itvpc
+127.0.0.1   lafondationdassaultsystemes.biz.redirect-dev.itvpc
+127.0.0.1   lafondationdassaultsystemes.com.redirect-dev.itvpc
+127.0.0.1   lafondationdassaultsystemes.eu.redirect-dev.itvpc
+127.0.0.1   lafondationdassaultsystemes.info.redirect-dev.itvpc
+127.0.0.1   lafondationdassaultsystemes.net.redirect-dev.itvpc
+127.0.0.1   lafondationdassaultsystemes.org.redirect-dev.itvpc
+127.0.0.1   lalune.3ds.com.redirect-dev.itvpc
+127.0.0.1   lasvegas1.connect
+127.0.0.1   lasvegas2.connect
+127.0.0.1   learningspace
+127.0.0.1   legolas-dev.cloudsecurity
+127.0.0.1   leonardo.3ds.com.redirect-dev.itvpc
+127.0.0.1   letsgodesign.com.redirect-dev.itvpc
+127.0.0.1   letsgodesign.tv.redirect-dev.itvpc
+127.0.0.1   loga.extranet.3ds.com.redirect-dev.itvpc
+127.0.0.1   login.indiaforum.3ds.com.redirect-dev.itvpc
+127.0.0.1   losangeles.connect
+127.0.0.1   lra.ag
+127.0.0.1   lra.ag
+127.0.0.1   lra.ap
+127.0.0.1   lra.ap
+127.0.0.1   lra.emea
+127.0.0.1   lra.emea
+127.0.0.1   lra.emea
+127.0.0.1   lra.emea
+127.0.0.1   lra.in
+127.0.0.1   lra.in
+127.0.0.1   lra.mhx.emea
+127.0.0.1   lra.mhx.emea
+127.0.0.1   lra.vel.emea
+127.0.0.1   lra.vel.emea
+127.0.0.1   lune.3ds.com.redirect-dev.itvpc
+127.0.0.1   lwc.ag
+127.0.0.1   lwc.ag
+127.0.0.1   lwc.ap
+127.0.0.1   lwc.ap
+127.0.0.1   lwc.emea
+127.0.0.1   lwc.emea
+127.0.0.1   lwc.emea
+127.0.0.1   lwc.emea
+127.0.0.1   lwc.in
+127.0.0.1   lwc.in
+127.0.0.1   lwc.mhx.emea
+127.0.0.1   lwc.mhx.emea
+127.0.0.1   lwc.vel.emea
+127.0.0.1   lwc.vel.emea
+127.0.0.1   m-ppd
+127.0.0.1   m.swym
+127.0.0.1   m.swym.ppd
+127.0.0.1   mail.ag
+127.0.0.1   mail.ap
+127.0.0.1   mail.emea
+127.0.0.1   maildrp.ap
+127.0.0.1   maildrp.emea
+127.0.0.1   mailing
+127.0.0.1   marketplace.3ds.com.redirect-dev.itvpc
+127.0.0.1   matrixone.com.redirect-dev.itvpc
+127.0.0.1   matrixone.net.redirect-dev.itvpc
+127.0.0.1   matrixoneservices.com.redirect-dev.itvpc
+127.0.0.1   mbsecyberexperience
+127.0.0.1   mbsecyberexperience2020.com.redirect-dev.itvpc
+127.0.0.1   media.sfy
+127.0.0.1   medidata-jabber.ag
+127.0.0.1   
+127.0.0.1   meshgems.com.redirect-dev.itvpc
+127.0.0.1   minimoys.3ds.com.redirect-dev.itvpc
+127.0.0.1   mkt-dev-us-vip.itvpc
+127.0.0.1   
+127.0.0.1   
+127.0.0.1   mkt-ppd-us-vip.itvpc
+127.0.0.1   
+127.0.0.1   
+127.0.0.1   mkt-prd-emea-vip.itvpc
+127.0.0.1   mkt-ru-data-ppd-new.itvpc
+127.0.0.1   mkt-ru-data-ppd.itvpc
+127.0.0.1   mkt-ru-data-prd.itvpc
+127.0.0.1   mobile-int.extranet
+127.0.0.1   mobileim
+127.0.0.1   mobilitylab
+127.0.0.1   modelisar.extranet
+127.0.0.1   myadfsapp.emea
+127.0.0.1   namforum.3ds.com.redirect-dev.itvpc
+127.0.0.1   newsletter-ppd.extranet
+127.0.0.1   newsletters.3ds.com.redirect-dev.itvpc
+127.0.0.1   nj1.simulia-cloud
+127.0.0.1   notification
+127.0.0.1   nspark01
+127.0.0.1   nspark02
+127.0.0.1   nspark03
+127.0.0.1   nuodb.com.redirect-dev.itvpc
+127.0.0.1   o-ws.mhx.emea
+127.0.0.1   o-ws.pun.ap
+127.0.0.1   o-ws.sdc.ap
+127.0.0.1   o-ws.vel.emea
+127.0.0.1   oab.ag
+127.0.0.1   oab.ap
+127.0.0.1   oab.emea
+127.0.0.1   oceancleanupcontest.com.redirect-dev.itvpc
+127.0.0.1   ocp-ptk-dmz.extranet
+127.0.0.1   oos.dshq-1.opc
+127.0.0.1   operafea.com.redirect-dev.itvpc
+127.0.0.1   operationlune.com.redirect-dev.itvpc
+127.0.0.1   org-3dshapebyme-qal.extranet
+127.0.0.1   org-3dshapebyme.extranet
+127.0.0.1   org-crprd.extranet
+127.0.0.1   org-crqal.extranet
+127.0.0.1   org-dsxclient.extranet
+127.0.0.1   org-dsxclientqal.extranet
+127.0.0.1   org-m
+127.0.0.1   org-m.extranet
+127.0.0.1   org-newsletters
+127.0.0.1   org-newsletters.extranet
+127.0.0.1   org.renault-swym
+127.0.0.1   org.swym
+127.0.0.1   org.www.dsswym
+127.0.0.1   orgcrqal.extranet
+127.0.0.1   ori.ppd
+127.0.0.1   orig.thecollaborativetribe
+127.0.0.1   origin-www
+127.0.0.1   origin.swym-ppd
+127.0.0.1   ortems.com.redirect-dev.itvpc
+127.0.0.1   osu-website.jaipur-1.opc
+127.0.0.1   osu-website.jaipur-1.opc
+127.0.0.1   osu.dshq-1.opc
+127.0.0.1   osu.dshq-1.opc
+127.0.0.1   osu.dshq-1.opc
+127.0.0.1   osu.jaipur-1.opc
+127.0.0.1   osu.jaipur-1.opc
+127.0.0.1   outlook.ag
+127.0.0.1   outlook.ap
+127.0.0.1   outlook.emea
+127.0.0.1   outlookdrp.ap
+127.0.0.1   outlookdrp.emea
+127.0.0.1   owa-ws01.ag
+127.0.0.1   owa-ws01.ap
+127.0.0.1   owa-ws01.emea
+127.0.0.1   owa-ws01.in
+127.0.0.1   pactpathfinder.extranet
+127.0.0.1   paris.3ds.com.redirect-dev.itvpc
+127.0.0.1   paris1.connect
+127.0.0.1   paris2.connect
+127.0.0.1   paris3d.3ds.com.redirect-dev.itvpc
+127.0.0.1   paris3dsaga.com.redirect-dev.itvpc
+127.0.0.1   paris5.connect
+127.0.0.1   paris6.connect
+127.0.0.1   partners.3ds.com.redirect-dev.itvpc
+127.0.0.1   partstream.net.redirect-dev.itvpc
+127.0.0.1   pb01ap.extranet
+127.0.0.1   pb02ap.extranet
+127.0.0.1   perspectives
+127.0.0.1   pes2022.events
+127.0.0.1   piwik.extranet
+127.0.0.1   plannerone.com.redirect-dev.itvpc
+127.0.0.1   player.virtools.com.redirect-dev.itvpc
+127.0.0.1   plm.3ds.com.redirect-dev.itvpc
+127.0.0.1   plmeurope.3ds.com.redirect-dev.itvpc
+127.0.0.1   plmmarketplace.com.redirect-dev.itvpc
+127.0.0.1   pod109-232-233-98.
+127.0.0.1   pod109-232-233-98.
+127.0.0.1   pod109-232-239-71.
+127.0.0.1   pod109-232-239-71.
+127.0.0.1   pod148-253-114-186.
+127.0.0.1   pod148-253-114-186.
+127.0.0.1   pod148-253-72-224.
+127.0.0.1   pod148-253-72-224.
+127.0.0.1   pod148-253-74-142-1.3dx-staging
+127.0.0.1   pod148-253-74-97.
+127.0.0.1   pod148-253-74-97.
+127.0.0.1   pod148-253-85-155.
+127.0.0.1   pod148-253-85-155.
+127.0.0.1   pod148-253-85-39.
+127.0.0.1   pod148-253-85-39.
+127.0.0.1   pod148-253-89-9.
+127.0.0.1   pod148-253-89-9.
+127.0.0.1   pod148-253-90-36.
+127.0.0.1   pod148-253-90-36.
+127.0.0.1   pod148-253-95-111.
+127.0.0.1   pod148-253-95-111.
+127.0.0.1   pod157-250-17-98.
+127.0.0.1   pod157-250-17-98.
+127.0.0.1   pod157-250-20-14.
+127.0.0.1   pod157-250-20-14.
+127.0.0.1   pod157-250-23-100.
+127.0.0.1   pod157-250-23-100.
+127.0.0.1   pod157-250-23-57.
+127.0.0.1   pod157-250-23-57.
+127.0.0.1   pod157-250-24-84.
+127.0.0.1   pod157-250-24-84.
+127.0.0.1   pod157-250-25-221.
+127.0.0.1   pod157-250-25-221.
+127.0.0.1   pod157-250-25-7.
+127.0.0.1   pod157-250-25-7.
+127.0.0.1   pod157-250-25-98.
+127.0.0.1   pod157-250-25-98.
+127.0.0.1   pod157-250-32-115.
+127.0.0.1   pod157-250-32-115.
+127.0.0.1   pod157-250-32-94.
+127.0.0.1   pod157-250-32-94.
+127.0.0.1   pod157-250-33-135.
+127.0.0.1   pod157-250-33-135.
+127.0.0.1   pod157-250-34-70.
+127.0.0.1   pod157-250-34-70.
+127.0.0.1   pod157-250-35-54-1.
+127.0.0.1   pod157-250-35-54-2.
+127.0.0.1   pod157-250-35-54.
+127.0.0.1   pod157-250-36-37.
+127.0.0.1   pod157-250-36-37.
+127.0.0.1   pod157-250-36-59.
+127.0.0.1   pod157-250-36-59.
+127.0.0.1   pod157-250-36-59.
+127.0.0.1   pod157-250-36-59.
+127.0.0.1   pod157-250-37-242.
+127.0.0.1   pod157-250-37-242.
+127.0.0.1   pod157-250-39-226.
+127.0.0.1   pod157-250-39-226.
+127.0.0.1   pod157-250-43-219.
+127.0.0.1   pod157-250-43-219.
+127.0.0.1   pod157-250-44-141.
+127.0.0.1   pod157-250-44-141.
+127.0.0.1   pod157-250-49-119.
+127.0.0.1   Subdomains
+127.0.0.1   000-companion
+127.0.0.1   2ces-api
+127.0.0.1   2dcad.com.redirect-dev.itvpc
+127.0.0.1   3d-plm.com.redirect-dev.itvpc
+127.0.0.1   3dccbeta.solidworks.com.redirect-dev.itvpc
+127.0.0.1   3dexcite.de.redirect-dev.itvpc
+127.0.0.1   3dexcite.fr.redirect-dev.itvpc
+127.0.0.1   3dexp2213.ag
+127.0.0.1   3dexp24250.ag
+127.0.0.1   3dexp2994.ag
+127.0.0.1   3dexp3460.ag
+127.0.0.1   3dexp3461.ag
+127.0.0.1   3dexp3464.ag
+127.0.0.1   3dexp40186.ag
+127.0.0.1   3dexp63123.ag
+127.0.0.1   -forum-turkey-events
+127.0.0.1   .com.redirect-dev.itvpc
+127.0.0.1   works.com.redirect-dev.itvpc
+127.0.0.1   3dlearning.3d-plm.com.redirect-dev.itvpc
+127.0.0.1   3dlearning.3dplm.com.redirect-dev.itvpc
+127.0.0.1   3dmojo.com.redirect-dev.itvpc
+127.0.0.1   3dplm.com.redirect-dev.itvpc
+127.0.0.1   3ds-ap-pun-smtp-out
+127.0.0.1   3ds-ap-sdc-smtp-out
+127.0.0.1   3ds-eu-abv-smtp-out
+127.0.0.1   3ds-eu-mhx-smtp-out
+127.0.0.1   3ds-foundation.asia.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.biz.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.com.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.eu.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.fr.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.info.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.net.redirect-dev.itvpc
+127.0.0.1   3ds-foundation.org.redirect-dev.itvpc
+127.0.0.1   3ds.foundation.redirect-dev.itvpc
+127.0.0.1   3dsbiovia.com.redirect-dev.itvpc
+127.0.0.1   3dsbiovia.jp.redirect-dev.itvpc
+127.0.0.1   3dscom-int.itvpc.3ds.com.redirect-dev.itvpc
+127.0.0.1   3dscom-qal.itvpc.3ds.com.redirect-dev.itvpc
+127.0.0.1   3dscom-uat.itvpc.3ds.com.redirect-dev.itvpc
+127.0.0.1   3dsfederation.itvpc
+127.0.0.1   3dsfoundation.asia.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.biz.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.com.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.eu.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.fr.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.info.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.net.redirect-dev.itvpc
+127.0.0.1   3dsfoundation.org.redirect-dev.itvpc
+127.0.0.1   3dsplm.extranet
+127.0.0.1   3dsplmdev.extranet
+127.0.0.1   3dstore
+127.0.0.1   3dswym.com.redirect-dev.itvpc
+127.0.0.1   3dswymer.com.redirect-dev.itvpc
+127.0.0.1   3dudesgone3d.com.redirect-dev.itvpc
+127.0.0.1   3dudesgone3d.kr.redirect-dev.itvpc
+127.0.0.1   3dudesgone3d.net.redirect-dev.itvpc
+127.0.0.1   3dudesgone3d.org.redirect-dev.itvpc
+127.0.0.1   3dvia.com.redirect-dev.itvpc
+127.0.0.1   3dviacomposer.com.redirect-dev.itvpc
+127.0.0.1   3dviadev.extranet
+127.0.0.1   3dviadevmp.extranet
+127.0.0.1   3dxcloudhealth-prd-apiproxy.itvpc
+127.0.0.1   3e-oeil.com.redirect-dev.itvpc
+127.0.0.1   3kerleund3d.de.redirect-dev.itvpc
+127.0.0.1   abaqus.com.redirect-dev.itvpc
+127.0.0.1   academic.extranet
+127.0.0.1   academy-beta.extranet
+127.0.0.1   academy-prd2.extranet
+127.0.0.1   academy-qal2.extranet
+127.0.0.1   academy.ppd
+127.0.0.1   accelrys.com.redirect-dev.itvpc
+127.0.0.1   accls.learning
+127.0.0.1   accounts.accelrys.com.redirect-dev.itvpc
+127.0.0.1   aerospace-defense.ii
+127.0.0.1   ag-mxg-isentry01.ag
+127.0.0.1   ag-mxg-kz34.extranet
+127.0.0.1   ag-mxg-vcse
+127.0.0.1   ag-mxg-vsp-ppd.dsone
+127.0.0.1   ag-mxg-vsp-ppd.emea
+127.0.0.1   agarik
+127.0.0.1   age-of-experience-2020.events.3ds.com.redirect-dev.itvpc
+127.0.0.1   alphahelp
+127.0.0.1   ap-dcc-vcse01.vcs.ap
+127.0.0.1   ap-dci-vcse01.vcs.in
+127.0.0.1   ap-sdc-cube01.sbc.ap
+127.0.0.1   argosim.com.redirect-dev.itvpc
+127.0.0.1   august.ag
+127.0.0.1   aurorasat.com.redirect-dev.itvpc
+127.0.0.1   aurorasat.es.redirect-dev.itvpc
+127.0.0.1   ballscm.ag
+127.0.0.1   be3ds.extranet
+127.0.0.1   bernard-charles.com.redirect-dev.itvpc
+127.0.0.1   bernardcharles.com.redirect-dev.itvpc
+127.0.0.1   beta.solidworks.com.redirect-dev.itvpc
+127.0.0.1   bhp
+127.0.0.1   biovia-references
+127.0.0.1   biovia.net.redirect-dev.itvpc
+127.0.0.1   borntodesign.tv.redirect-dev.itvpc
+127.0.0.1   boston1.connect
+127.0.0.1   boston2.connect
+127.0.0.1   boston3.connect
+127.0.0.1   boston4.connect
+127.0.0.1   bp2s-3dexp-issuetracking
+127.0.0.1   brisbane1.connect
+127.0.0.1   brisbane2.connect
+127.0.0.1   caav5.com.redirect-dev.itvpc
+127.0.0.1   campus
+127.0.0.1   campus.3ds.com.redirect-dev.itvpc
+127.0.0.1   catia.com.redirect-dev.itvpc
+127.0.0.1   cdn1
+127.0.0.1   changepassword.dsone.3ds.com.redirect-dev.itvpc
+127.0.0.1   cloud-ppd
+127.0.0.1   cloud.3ds.com.redirect-dev.itvpc
+127.0.0.1   cloud2.simulia-cloud
+127.0.0.1   cloud3.simulia-cloud
+127.0.0.1   cloud4.simulia-cloud
+127.0.0.1   cloud5.simulia-cloud
+127.0.0.1   cloudrundoc
+127.0.0.1   cm.3ds.com.redirect-dev.itvpc
+127.0.0.1   cn.dev.geovia.com.redirect-dev.itvpc
+127.0.0.1   cn.geovia.com.redirect-dev.itvpc
+127.0.0.1   community
+127.0.0.1   companion
+127.0.0.1   companion-ppdqa.3ds.com.redirect-dev.itvpc
+127.0.0.1   cordouan.3ds.com.redirect-dev.itvpc
+127.0.0.1   cosmologic.de.redirect-dev.itvpc
+127.0.0.1   cp2-dcs.extranet
+127.0.0.1   cpg.swym
+127.0.0.1   csi-partners.3ds.com.redirect-dev.itvpc
+127.0.0.1   d-ws.las.ag
+127.0.0.1   d-ws.mhx.emea
+127.0.0.1   d-ws.mxg.ag
+127.0.0.1   d-ws.pun.ap
+127.0.0.1   d-ws.sdc.ap
+127.0.0.1   d-ws.vel.emea
+127.0.0.1   dashboardpartners-prd-apiproxy.itvpc
+127.0.0.1   dassault-data-services.com.redirect-dev.itvpc
+127.0.0.1   dassault-data-services.fr.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.asia.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.biz.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.com.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.eu.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.fr.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.info.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.net.redirect-dev.itvpc
+127.0.0.1   dassault-systemes-foundation.org.redirect-dev.itvpc
+127.0.0.1   dassault-systemes.com.redirect-dev.itvpc
+127.0.0.1   dassault-systemes.foundation.redirect-dev.itvpc
+127.0.0.1   dassaultsystem.com.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.asia.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.biz.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.com.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.eu.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.fr.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.info.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.net.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes-foundation.org.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes.com.redirect-dev.itvpc
+127.0.0.1   dassaultsystemes.foundation.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.asia.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.biz.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.com.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.eu.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.fr.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.info.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.net.redirect-dev.itvpc
+127.0.0.1   dassaultsystemesfoundation.org.redirect-dev.itvpc
+127.0.0.1   dc10.simulia-cloud
+127.0.0.1   dday.3ds.com.redirect-dev.itvpc
+127.0.0.1   default.redirect-dev.itvpc
+127.0.0.1   delmia.co.uk.redirect-dev.itvpc
+127.0.0.1   delmia.com.redirect-dev.itvpc
+127.0.0.1   delmia.de.redirect-dev.itvpc
+127.0.0.1   delmia.it.redirect-dev.itvpc
+127.0.0.1   delmia.jp.redirect-dev.itvpc
+127.0.0.1   delmia.se.redirect-dev.itvpc
+127.0.0.1   desjoyeaux.3ds.com.redirect-dev.itvpc
+127.0.0.1   dev.geovia.com.redirect-dev.itvpc
+127.0.0.1   dev1
+127.0.0.1   dev2
+127.0.0.1   digitalrock.com.redirect-dev.itvpc
+127.0.0.1   diota.com.redirect-dev.itvpc
+127.0.0.1   dir-lws01.ag
+127.0.0.1   dir-lws01.ap
+127.0.0.1   dir-lws01.emea
+127.0.0.1   dir-lws01.in
+127.0.0.1   discover.draftsight.com.redirect-dev.itvpc
+127.0.0.1   distene.com.redirect-dev.itvpc
+127.0.0.1   distene.eu.redirect-dev.itvpc
+127.0.0.1   distene.fr.redirect-dev.itvpc
+127.0.0.1   distene.pw.redirect-dev.itvpc
+127.0.0.1   distribution-ws
+127.0.0.1   dls-cs01mm.ptk
+127.0.0.1   dls-cs02na.ptk
+127.0.0.1   dlssvc0024-ptk.extranet
+127.0.0.1   download
+127.0.0.1   download-indus-dc.italiases
+127.0.0.1   download.
+127.0.0.1   download.ppd
+127.0.0.1   downloads.operafea.com.redirect-dev.itvpc
+127.0.0.1   dqpm-tkse-ptk.extranet
+127.0.0.1   draftsight.com.redirect-dev.itvpc
+127.0.0.1   draftsight2018.com.redirect-dev.itvpc
+127.0.0.1   draftsightenterprise.com.redirect-dev.itvpc
+127.0.0.1   draftsightlive.com.redirect-dev.itvpc
+127.0.0.1   draftsightprofessional.com.redirect-dev.itvpc
+127.0.0.1   ds3dexp-eu-listencat-ext.extranet
+127.0.0.1   dsappstore
+127.0.0.1   dsdsf.com.redirect-dev.itvpc
+127.0.0.1   dsgscity
+127.0.0.1   dsifwe.
+127.0.0.1   dstokendsy
+127.0.0.1   dsweb.com.redirect-dev.itvpc
+127.0.0.1   dsxccsearch.extranet
+127.0.0.1   dsxclientpgm.ag
+127.0.0.1   dsxclientpgmfcs.ag
+127.0.0.1   dsxcliscm.ag
+127.0.0.1   dymola.com.redirect-dev.itvpc
+127.0.0.1   dynadata.extranet
+127.0.0.1   e-support.dassault-systemes.com.redirect-dev.itvpc
+127.0.0.1   e-time.extranet.3ds.com.redirect-dev.itvpc
+127.0.0.1   ecforum.com.redirect-dev.itvpc
+127.0.0.1   edrawings.com.redirect-dev.itvpc
+127.0.0.1   edrawings.de.redirect-dev.itvpc
+127.0.0.1   edrawings.fr.redirect-dev.itvpc
+127.0.0.1   edrawingsviewer.com.redirect-dev.itvpc
+127.0.0.1   edrawingsviewer.de.redirect-dev.itvpc
+127.0.0.1   edrawingsviewer.fr.redirect-dev.itvpc
+127.0.0.1   edrawingviewer.com.redirect-dev.itvpc
+127.0.0.1   elmcentral
+127.0.0.1   elmcentral.extranet
+127.0.0.1   embarkd1
+127.0.0.1   emear.simulia-cloud
+127.0.0.1   emedfstechptk1.extranet
+127.0.0.1   eni-recipe-ptk.extranet
+127.0.0.1   enovia.com.redirect-dev.itvpc
+127.0.0.1   enoviainformation.com.redirect-dev.itvpc
+127.0.0.1   enoviaservices.com.redirect-dev.itvpc
+127.0.0.1   env01test.ag
+127.0.0.1   env02test.ag
+127.0.0.1   env03test.ag
+127.0.0.1   env04test.ag
+127.0.0.1   env05test.ag
+127.0.0.1   env06test.ag
+127.0.0.1   env07test.ag
+127.0.0.1   env08test.ag
+127.0.0.1   env09test.ag
+127.0.0.1   env10test.ag
+127.0.0.1   env11test.ag
+127.0.0.1   env12test.ag
+127.0.0.1   env13test.ag
+127.0.0.1   env14test.ag
+127.0.0.1   env15test.ag
+127.0.0.1   env16test.ag
+127.0.0.1   env17test.ag
+127.0.0.1   env18test.ag
+127.0.0.1   env19test.ag
+127.0.0.1   env20test.ag
+127.0.0.1   env21test.ag
+127.0.0.1   env22test.ag
+127.0.0.1   env23test.ag
+127.0.0.1   env24test.ag
+127.0.0.1   env25test.ag
+127.0.0.1   env26test.ag
+127.0.0.1   env27test.ag
+127.0.0.1   env28test.ag
+127.0.0.1   erdev.extranet
+127.0.0.1   erecruit.extranet
+127.0.0.1   erppd.extranet
+127.0.0.1   erqal.extranet
+127.0.0.1   es.dev.geovia.com.redirect-dev.itvpc
+127.0.0.1   es.geovia.com.redirect-dev.itvpc
+127.0.0.1   eu-1.wifiguest
+127.0.0.1   eu-2.wifiguest
+127.0.0.1   eu-mhx-vcse01.vcs.emea
+127.0.0.1   eu-mhx-vcse02.vcs.emea
+127.0.0.1   eu-ppd-sbc01.uc-ppd-zoom.eu
+127.0.0.1   eu1.simulia-cloud
+127.0.0.1   eupsftigw
+127.0.0.1   euromed-tools
+127.0.0.1   eurosyslib.com.redirect-dev.itvpc
+127.0.0.1   ews.ag
+127.0.0.1   ews.ap
+127.0.0.1   ews.emea
+127.0.0.1   exa.com.redirect-dev.itvpc
+127.0.0.1   exalead-nam.ag
+127.0.0.1   exalead-onecall.com.redirect-dev.itvpc
+127.0.0.1   exalead-onepart.com.redirect-dev.itvpc
+127.0.0.1   exalead.access.prod.companion
+127.0.0.1   exalead.prod.companion
+127.0.0.1   f-ws.las.ag
+127.0.0.1   f-ws.mhx.emea
+127.0.0.1   f-ws.mxg.ag
+127.0.0.1   f-ws.pun.ap
+127.0.0.1   f-ws.sdc.ap
+127.0.0.1   f-ws.vel.emea
+127.0.0.1   fashionlab.3ds.com.redirect-dev.itvpc
+127.0.0.1   fcu.dshq-1.opc
+127.0.0.1   fe-lws01.ag
+127.0.0.1   fe-lws01.ap
+127.0.0.1   fe-lws01.emea
+127.0.0.1   fe-lws01.in
+127.0.0.1   federation
+127.0.0.1   fest3d.com.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.asia.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.biz.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.com.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.eu.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.info.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.net.redirect-dev.itvpc
+127.0.0.1   fondation-3ds.org.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.asia.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.biz.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.com.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.eu.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.info.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.net.redirect-dev.itvpc
+127.0.0.1   fondation-dassault-systemes.org.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.asia.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.biz.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.com.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.eu.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.info.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.net.redirect-dev.itvpc
+127.0.0.1   fondation-dassaultsystemes.org.redirect-dev.itvpc
+127.0.0.1   fondation3ds.asia.redirect-dev.itvpc
+127.0.0.1   fondation3ds.biz.redirect-dev.itvpc
+127.0.0.1   fondation3ds.com.redirect-dev.itvpc
+127.0.0.1   fondation3ds.eu.redirect-dev.itvpc
+127.0.0.1   fondation3ds.info.redirect-dev.itvpc
+127.0.0.1   fondation3ds.net.redirect-dev.itvpc
+127.0.0.1   fondation3ds.org.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.asia.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.biz.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.com.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.eu.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.info.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.net.redirect-dev.itvpc
+127.0.0.1   fondationdassaultsystemes.org.redirect-dev.itvpc
+127.0.0.1   forms.community
+127.0.0.1   ftp-bld.ag
+127.0.0.1   ftp-dsis.ag
+127.0.0.1   ftp-enovia.ag
+127.0.0.1   gemcomsoftware.com.redirect-dev.itvpc
+127.0.0.1   geovia.com.redirect-dev.itvpc
+127.0.0.1   giza.3ds.com.redirect-dev.itvpc
+127.0.0.1   giza3d.3ds.com.redirect-dev.itvpc
+127.0.0.1   gizeh.3ds.com.redirect-dev.itvpc
+127.0.0.1   gizeh3d.3ds.com.redirect-dev.itvpc
+127.0.0.1   help-embed
+127.0.0.1   help.diota.com.redirect-dev.itvpc
+127.0.0.1   help.draftsight.com.redirect-dev.itvpc
+127.0.0.1   helpdesk.dassault-systemes.com.redirect-dev.itvpc
+127.0.0.1   horizon.ag
+127.0.0.1   iaas01ap.extranet
+127.0.0.1   iaas02ap.extranet
+127.0.0.1   iaas03ap.extranet
+127.0.0.1   iaas04ap.extranet
+127.0.0.1   iaas05ap.extranet
+127.0.0.1   iaas07ap.extranet
+127.0.0.1   iaas09ap.extranet
+127.0.0.1   iaas10ap.extranet
+127.0.0.1   iaas11ap.extranet
+127.0.0.1   iaas13ap.extranet
+127.0.0.1   iad.simulia-cloud
 127.0.0.1  iam-ppd
 127.0.0.1  iam.3ds.com.redirect-dev.itvpc
 127.0.0.1  iam.dsswym
